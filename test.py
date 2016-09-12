@@ -1,2 +1,2 @@
-print "hello, pocogit"
+print "hello, pocogit\n"
 
