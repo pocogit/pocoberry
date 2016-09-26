@@ -13,3 +13,5 @@ def next_p(n):
         i += 1
         if p(i):
             print(i)
+
+
