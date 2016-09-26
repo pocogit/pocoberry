@@ -1,7 +1,8 @@
 def p(n):
     """Return True if it is a prime n."""
-    for e in range(1,n):
+    for e in range(2,n):
         if n % e == 0:
+	    print e
             return False
     return True
 
